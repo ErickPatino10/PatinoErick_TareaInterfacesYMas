@@ -1,6 +1,6 @@
-========================================================
+
 TAREA 1: SISTEMA DE FIGURAS GEOMÉTRICAS
-========================================================
+
 
 En esta tarea se desarrolló un sistema de figuras geométricas
 utilizando una clase abstracta llamada Figura.
@@ -12,9 +12,9 @@ para recorrer todas las figuras y mostrar su información.
 El proyecto fue organizado en diferentes archivos Java
 para mantener un código limpio, claro y reutilizable.
 
-========================================================
+
 TAREA 2: SISTEMA DE EMPLEADOS CON JERARQUÍA
-========================================================
+
 
 En esta tarea se implementó una jerarquía de empleados
 utilizando una clase abstracta llamada Empleado.
